@@ -43,11 +43,11 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 
 *__Practical Machine Learning with Python__* follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
 
- - __Part 1__ focuses on understanding machine learning concepts and tools. This includes machine learning basics with a broad overview of algorithms, techniques, concepts and applications, followed by a tour of the entire Python machine learning ecosystem. Brief guides for useful machine learning tools, libraries and frameworks are also covered.
+ - [__Part 1__](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) focuses on understanding machine learning concepts and tools. This includes machine learning basics with a broad overview of algorithms, techniques, concepts and applications, followed by a tour of the entire Python machine learning ecosystem. Brief guides for useful machine learning tools, libraries and frameworks are also covered.
 
- - __Part 2__ details standard machine learning pipelines, with an emphasis on data processing analysis, feature engineering, and modeling. You will learn how to process, wrangle, summarize and visualize data in its various forms. Feature engineering and selection methodologies will be covered in detail with real-world datasets followed by model building, tuning, interpretation and deployment.
+ - [__Part 2__](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) details standard machine learning pipelines, with an emphasis on data processing analysis, feature engineering, and modeling. You will learn how to process, wrangle, summarize and visualize data in its various forms. Feature engineering and selection methodologies will be covered in detail with real-world datasets followed by model building, tuning, interpretation and deployment.
 
- - __Part 3__ explores multiple real-world case studies spanning diverse domains and industries like *retail*, *transportation*, *movies*, *music*, *marketing*, *computer vision* and *finance*. For each case study, you will learn the application of various machine learning techniques and methods. The hands-on examples will help you become familiar with state-of-the-art machine learning tools and techniques and understand what algorithms are best suited for any problem.
+ - [__Part 3__](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) explores multiple real-world case studies spanning diverse domains and industries like *retail*, *transportation*, *movies*, *music*, *marketing*, *computer vision* and *finance*. For each case study, you will learn the application of various machine learning techniques and methods. The hands-on examples will help you become familiar with state-of-the-art machine learning tools and techniques and understand what algorithms are best suited for any problem.
 
 *__Practical Machine Learning with Python__* will empower you to start solving your own problems with machine learning today!
 <br>
@@ -56,19 +56,19 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 
  - __Part I: Understanding Machine Learning__
     - [Chapter 1: Machine Learning Basics](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch01_Machine_Learning_Basics)
-    - Chapter 2: The Python Machine Learning Ecosystem
+    - [Chapter 2: The Python Machine Learning Ecosystem](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch02_The_Python_ML_Ecosystem)
  - __Part II: The Machine Learning Pipeline__
-    - Chapter 3: Processing, Wrangling and Visualizing Data
-    - Chapter 4: Feature Engineering and Selection
-    - Chapter 5: Building, Tuning and Deploying Models
+    - [Chapter 3: Processing, Wrangling and Visualizing Data](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch03_Processing_Wrangling_and_Visualizing_Data)
+    - [Chapter 4: Feature Engineering and Selection](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch04_Feature_Engineering_and_Selection)
+    - [Chapter 5: Building, Tuning and Deploying Models](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch05_Building_Tuning_and_Deploying_Models)
  - __Part III: Real-World Case Studies__
-    - Chapter 6: Analyzing Bike Sharing Trends
-    - Chapter 7: Analyzing Movie Reviews Sentiment
-    - Chapter 8: Customer Segmentation and Effective Cross Selling
-    - Chapter 9: Analyzing Wine Types and Quality
-    - Chapter 10: Analyzing Music Trends and Recommendations
-    - Chapter 11: Forecasting Stock and Commodity Prices
-    - Chapter 12: Deep Learning for Computer Vision
+    - [Chapter 6: Analyzing Bike Sharing Trends](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch06_Analyzing_Bike_Sharing_Trends)
+    - [Chapter 7: Analyzing Movie Reviews Sentiment](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch07_Analyzing_Movie_Reviews_Sentiment)
+    - [Chapter 8: Customer Segmentation and Effective Cross Selling](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch08_Customer_Segmentation_and_Effective_Cross_Selling)
+    - [Chapter 9: Analyzing Wine Types and Quality](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch09_Analyzing_Wine_Types_and_Quality)
+    - [Chapter 10: Analyzing Music Trends and Recommendations](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch10_Analyzing_Music_Trends_and_Recommendations)
+    - [Chapter 11: Forecasting Stock and Commodity Prices](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch11_Forecasting_Stock_and_Commodity_Prices)
+    - [Chapter 12: Deep Learning for Computer Vision](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch12_Deep_Learning_for_Computer_Vision)
 
 ## What You'll Learn
 
