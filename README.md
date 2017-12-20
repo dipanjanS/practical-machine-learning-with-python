@@ -39,7 +39,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  Book Title: Practical Machine Learning with Python &emsp; Publisher: Apress (a part of Springer) &emsp; Copyright: Dipanjan Sarkar, Raghav Bali, Tushar Sharma<br/>  
  Print ISBN: 978-1-4842-3206-4 &emsp; Online ISBN: 978-1-4842-3207-1 &emsp; DOI: 10.1007/978-1-4842-3207-1<br/>
 </div>
-
+<br>
 
 *__Practical Machine Learning with Python__* follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
 
@@ -50,7 +50,6 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  - __Part 3__ explores multiple real-world case studies spanning diverse domains and industries like *retail*, *transportation*, *movies*, *music*, *marketing*, *computer vision* and *finance*. For each case study, you will learn the application of various machine learning techniques and methods. The hands-on examples will help you become familiar with state-of-the-art machine learning tools and techniques and understand what algorithms are best suited for any problem.
 
 *__Practical Machine Learning with Python__* will empower you to start solving your own problems with machine learning today!
-
 <br>
 
 ## What You'll Learn
@@ -60,7 +59,15 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  - Review case studies depicting applications of machine learning and deep learning on diverse domains and industries
  - Apply a wide range of machine learning models including regression, classification, and clustering.
  - Understand and apply the latest models and methodologies from deep learning including CNNs, RNNs, LSTMs and transfer learning.
- 
+<br>
+
+## Audience
+This book has been specially written for IT professionals, analysts, developers, data scientists, engineers, graduate students and anyone with an interest to analyze and derive insights from data!
+<br>
+
+## Acknowledgements
+TBA
+<br> 
  
 ## Contents  
 
@@ -80,6 +87,3 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
     - Chapter 11: Forecasting Stock and Commodity Prices
     - Chapter 12: Deep Learning for Computer Vision
     
-    
-
-
