@@ -27,7 +27,7 @@ This repository contains all the code, notebooks and examples used in this book.
 
 ## About the book 
 <a target="_blank" href="href="https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062/ref=sr_1_10?ie=UTF8&qid=1513756537&sr=8-10&keywords=practical+machine+learning+with+python">
-  <img src="./media/banners/cover_front.png" alt="Book Cover" width="250" align="left"/>
+  <img src="./media/banners/cover_front.jpg" alt="Book Cover" width="250" align="left"/>
 </a>
 
 Master the essential skills needed to recognize and solve complex problems with machine learning and deep learning. Using real-world examples that leverage the popular Python machine learning ecosystem, this book is your perfect companion for learning the art and science of machine learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute machine learning systems and projects successfully. 
