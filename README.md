@@ -59,7 +59,6 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  - Review case studies depicting applications of machine learning and deep learning on diverse domains and industries
  - Apply a wide range of machine learning models including regression, classification, and clustering.
  - Understand and apply the latest models and methodologies from deep learning including CNNs, RNNs, LSTMs and transfer learning.
-<br>
 
 ## Audience
 This book has been specially written for IT professionals, analysts, developers, data scientists, engineers, graduate students and anyone with an interest to analyze and derive insights from data!
