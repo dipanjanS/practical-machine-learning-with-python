@@ -1,8 +1,3 @@
-sno,fruit,color,price
-1,apple,red,110.85
-2,banana,yellow,50.12
-3,mango,yellow,70.29
-4,orange,orange,80.00
-5,kiwi,green,150.00
-6,pineapple,yellow,90.00
-7,guava,green,20.00
+version https://git-lfs.github.com/spec/v1
+oid sha256:e449d1f413d815335ae10645611ddf652e00b0f9bae06046757fce6e9cf489b0
+size 179

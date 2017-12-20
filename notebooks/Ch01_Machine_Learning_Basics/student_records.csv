@@ -1,9 +1,3 @@
-Name,OverallGrade,Obedient,ResearchScore,ProjectScore,Recommend
-Henry,A,Y,90,85,Yes
-John,C,N,85,51,Yes
-David,F,N,10,17,No
-Holmes,B,Y,75,71,No
-Marvin,E,N,20,30,No
-Simon,A,Y,92,79,Yes
-Robert,B,Y,60,59,No
-Trent,C,Y,75,33,No
+version https://git-lfs.github.com/spec/v1
+oid sha256:3207c5d96b1b404b3d371bf4692369c90602f532b4861664567836eaef089465
+size 230
