@@ -32,22 +32,23 @@ This repository contains all the code, notebooks and examples used in this book.
 
 Master the essential skills needed to recognize and solve complex problems with machine learning and deep learning. Using real-world examples that leverage the popular Python machine learning ecosystem, this book is your perfect companion for learning the art and science of machine learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute machine learning systems and projects successfully. 
 
-*__Practical Machine Learning with Python__* follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
-
-- __Part 1__ focuses on understanding machine learning concepts and tools. This includes machine learning basics with a broad overview of algorithms, techniques, concepts and applications, followed by a tour of the entire Python machine learning ecosystem. Brief guides for useful machine learning tools, libraries and frameworks are also covered.
-
-- __Part 2__ details standard machine learning pipelines, with an emphasis on data processing analysis, feature engineering, and modeling. You will learn how to process, wrangle, summarize and visualize data in its various forms. Feature engineering and selection methodologies will be covered in detail with real-world datasets followed by model building, tuning, interpretation and deployment.
-
-- __Part 3__ explores multiple real-world case studies spanning diverse domains and industries like *retail*, *transportation*, *movies*, *music*, *marketing*, *computer vision* and *finance*. For each case study, you will learn the application of various machine learning techniques and methods. The hands-on examples will help you become familiar with state-of-the-art machine learning tools and techniques and understand what algorithms are best suited for any problem.
-
-*__Practical Machine Learning with Python__* will empower you to start solving your own problems with machine learning today!
+We will focus on leveraging the latest state-of-the-art data analysis, machine learning and deep learning frameworks including [`scikit-learn`](http://scikit-learn.org/stable/), [`pandas`](https://pandas.pydata.org/), [`statsmodels`](http://www.statsmodels.org/stable/index.html), [`spaCy`](https://spacy.io/), [`nltk`](http://www.nltk.org/), [`gensim`](https://radimrehurek.com/gensim/), [`tensorflow`](https://www.tensorflow.org/), [`keras`](https://keras.io/) besides several others to process, wrangle, analyze, visualize and model on real-world datasets and problems! With a learn-by-doing approach, we try to abstract out complex theory and concepts (while presenting the essentials wherever necessary), which often tends to hold back practitioners from leveraging the true power of machine learning to solve their own problems.
 
 <div style='font-size:0.5em;'><sup>
 Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
-Book Title: Practical Machine Learning with Python &emsp; Publisher: Apress (a part of Springer) &emsp; Copyright: Dipanjan Sarkar, Raghav Bali, Tushar Sharma<br/>  
-Print ISBN: 978-1-4842-3206-4 &emsp; Online ISBN: 978-1-4842-3207-1 &emsp; DOI: 10.1007/978-1-4842-3207-1<br/>
+ Book Title: Practical Machine Learning with Python &emsp; Publisher: Apress (a part of Springer) &emsp; Copyright: Dipanjan Sarkar, Raghav Bali, Tushar Sharma<br/>  
+ Print ISBN: 978-1-4842-3206-4 &emsp; Online ISBN: 978-1-4842-3207-1 &emsp; DOI: 10.1007/978-1-4842-3207-1<br/>
 </div>
 
+*__Practical Machine Learning with Python__* follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
+
+ - __Part 1__ focuses on understanding machine learning concepts and tools. This includes machine learning basics with a broad overview of algorithms, techniques, concepts and applications, followed by a tour of the entire Python machine learning ecosystem. Brief guides for useful machine learning tools, libraries and frameworks are also covered.
+
+ - __Part 2__ details standard machine learning pipelines, with an emphasis on data processing analysis, feature engineering, and modeling. You will learn how to process, wrangle, summarize and visualize data in its various forms. Feature engineering and selection methodologies will be covered in detail with real-world datasets followed by model building, tuning, interpretation and deployment.
+
+ - __Part 3__ explores multiple real-world case studies spanning diverse domains and industries like *retail*, *transportation*, *movies*, *music*, *marketing*, *computer vision* and *finance*. For each case study, you will learn the application of various machine learning techniques and methods. The hands-on examples will help you become familiar with state-of-the-art machine learning tools and techniques and understand what algorithms are best suited for any problem.
+
+*__Practical Machine Learning with Python__* will empower you to start solving your own problems with machine learning today!
 
 <br>
 
