@@ -3,7 +3,7 @@
 
 *"Data is the new oil"* is a saying which you must have heard by now along with the huge interest building up around Big Data and Machine Learning in the recent past along with Artificial Intelligence and Deep Learning. Besides this, data scientists have been termed as having *"The sexiest job in the 21st Century"* which makes it all the more worthwhile to build up some valuable expertise in these areas. Getting started with machine learning in the real world can be overwhelming with the vast amount of resources out there on the web.
 
-*__"Practical Machine Learning with Python"__*  follows a structured and comprehensive three-tiered approach packed with concepts, methodologies, hands-on examples, and code. This book is packed with over 500 pages of useful information which helps its readers master the essential skills needed to recognize and solve complex problems with Machine Learning and Deep Learning by following a data-driven mindset. By using real-world case studies that leverage the popular Python Machine Learning ecosystem, this book is your perfect companion for learning the art and science of Machine Learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute Machine Learning systems and projects successfully.
+[*__"Practical Machine Learning with Python"__*](https://github.com/dipanjanS/practical-machine-learning-with-python#contents)  follows a structured and comprehensive three-tiered approach packed with concepts, methodologies, hands-on examples, and code. This book is packed with over 500 pages of useful information which helps its readers master the essential skills needed to recognize and solve complex problems with Machine Learning and Deep Learning by following a data-driven mindset. By using real-world case studies that leverage the popular Python Machine Learning ecosystem, this book is your perfect companion for learning the art and science of Machine Learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute Machine Learning systems and projects successfully.
 
 This repository contains all the code, notebooks and examples used in this book. We will also be adding bonus content here from time to time. So keep watching this space!
 
@@ -41,7 +41,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 </div>
 <br>
 
-*__Practical Machine Learning with Python__* follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
+[*__Practical Machine Learning with Python__*](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
 
  - [__Part 1__](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) focuses on understanding machine learning concepts and tools. This includes machine learning basics with a broad overview of algorithms, techniques, concepts and applications, followed by a tour of the entire Python machine learning ecosystem. Brief guides for useful machine learning tools, libraries and frameworks are also covered.
 
@@ -49,7 +49,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 
  - [__Part 3__](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) explores multiple real-world case studies spanning diverse domains and industries like *retail*, *transportation*, *movies*, *music*, *marketing*, *computer vision* and *finance*. For each case study, you will learn the application of various machine learning techniques and methods. The hands-on examples will help you become familiar with state-of-the-art machine learning tools and techniques and understand what algorithms are best suited for any problem.
 
-*__Practical Machine Learning with Python__* will empower you to start solving your own problems with machine learning today!
+[*__Practical Machine Learning with Python__*](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) will empower you to start solving your own problems with machine learning today!
 <br>
 
 ## Contents  
