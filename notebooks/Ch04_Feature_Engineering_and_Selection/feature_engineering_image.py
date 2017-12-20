@@ -53,9 +53,13 @@ ax2.imshow(dog)
 
 # In[4]:
 
-dog_r = dog[:,:,0]
-dog_g = dog[:,:,1]
-dog_b = dog[:,:,2]
+dog_r = dog.copy() # Red Channel
+dog_r[:,:,1] = dog_r[:,:,2] = 0 # set G,B pixels = 0
+dog_g = dog.copy() # Green Channel
+dog_g[:,:,0] = dog_r[:,:,2] = 0 # set R,B pixels = 0
+dog_b = dog.copy() # Blue Channel
+dog_b[:,:,0] = dog_b[:,:,1] = 0 # set R,G pixels = 0
+
 plot_image = np.concatenate((dog_r, dog_g, dog_b), axis=1)
 plt.figure(figsize = (10,4))
 plt.imshow(plot_image)
