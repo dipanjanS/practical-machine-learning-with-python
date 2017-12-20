@@ -26,7 +26,7 @@ This repository contains all the code, notebooks and examples used in this book.
 <br><br>
 
 ## About the book 
-<a target="_blank" href="href="https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062/ref=sr_1_10?ie=UTF8&qid=1513756537&sr=8-10&keywords=practical+machine+learning+with+python">
+<a target="_blank" href="https://www.amazon.com/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062/ref=sr_1_10?ie=UTF8&qid=1513756537&sr=8-10&keywords=practical+machine+learning+with+python">
   <img src="./media/banners/cover_front.jpg" alt="Book Cover" width="250" align="left"/>
 </a>
 
