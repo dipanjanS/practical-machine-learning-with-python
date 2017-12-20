@@ -3,7 +3,7 @@
 
 *"Data is the new oil"* is a saying which you must have heard by now along with the huge hype building up around Big Data and Machine Learning in the recent past along with Artificial Intelligence and Deep Learning. Besides this, data scientists have been termed as having *"The sexiest job in the 21st Century"* which makes it all the more worthwhile to build up some valuable expertise in these areas. Getting started with machine learning in the real world can be overwhelming with the vast amount of resources out there on the web.
 
-*__"Practial Machine Learning with Python"__*  follows a structured and comprehensive three-tiered approach packed with concepts, methodologies, hands-on examples, and code. This book is packed with over 500 pages of useful information which helps its readers master the essential skills needed to recognize and solve complex problems with Machine Learning and Deep Learning by following a data-driven mindset. By using real-world case studies that leverage the popular Python Machine Learning ecosystem, this book is your perfect companion for learning the art and science of Machine Learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute Machine Learning systems and projects successfully.
+*__"Practical Machine Learning with Python"__*  follows a structured and comprehensive three-tiered approach packed with concepts, methodologies, hands-on examples, and code. This book is packed with over 500 pages of useful information which helps its readers master the essential skills needed to recognize and solve complex problems with Machine Learning and Deep Learning by following a data-driven mindset. By using real-world case studies that leverage the popular Python Machine Learning ecosystem, this book is your perfect companion for learning the art and science of Machine Learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute Machine Learning systems and projects successfully.
 
 This repository contains all the code, notebooks and examples used in this book. We will also be adding bonus content here from time to time. So keep watching this space!
 
@@ -40,6 +40,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  Print ISBN: 978-1-4842-3206-4 &emsp; Online ISBN: 978-1-4842-3207-1 &emsp; DOI: 10.1007/978-1-4842-3207-1<br/>
 </div>
 
+
 *__Practical Machine Learning with Python__* follows a structured and comprehensive three-tiered approach packed with hands-on examples and code.
 
  - __Part 1__ focuses on understanding machine learning concepts and tools. This includes machine learning basics with a broad overview of algorithms, techniques, concepts and applications, followed by a tour of the entire Python machine learning ecosystem. Brief guides for useful machine learning tools, libraries and frameworks are also covered.
@@ -63,5 +64,22 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  
 ## Contents  
 
- - Chapter 1: Machine Learning Basics
+ - Part I: Understanding Machine Learning
+    - Chapter 1: Machine Learning Basics
+    - Chapter 2: The Python Machine Learning Ecosystem
+ - Part II: The Machine Learning Pipeline
+    - Chapter 3: Processing, Wrangling and Visualizing Data
+    - Chapter 4: Feature Engineering and Selection
+    - Chapter 5: Building, Tuning and Deploying Models
+ - Part III: Real-World Case Studies
+    - Chapter 6: Analyzing Bike Sharing Trends
+    - Chapter 7: Analyzing Movie Reviews Sentiment
+    - Chapter 8: Customer Segmentation and Effective Cross Selling
+    - Chapter 9: Analyzing Wine Types and Quality
+    - Chapter 10: Analyzing Music Trends and Recommendations
+    - Chapter 11: Forecasting Stock and Commodity Prices
+    - Chapter 12: Deep Learning for Computer Vision
+    
+    
+
 
