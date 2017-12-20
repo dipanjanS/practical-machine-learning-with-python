@@ -52,6 +52,24 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 *__Practical Machine Learning with Python__* will empower you to start solving your own problems with machine learning today!
 <br>
 
+## Contents  
+
+ - __Part I: Understanding Machine Learning__
+    - [Chapter 1: Machine Learning Basics](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch01_Machine_Learning_Basics)
+    - Chapter 2: The Python Machine Learning Ecosystem
+ - __Part II: The Machine Learning Pipeline__
+    - Chapter 3: Processing, Wrangling and Visualizing Data
+    - Chapter 4: Feature Engineering and Selection
+    - Chapter 5: Building, Tuning and Deploying Models
+ - __Part III: Real-World Case Studies__
+    - Chapter 6: Analyzing Bike Sharing Trends
+    - Chapter 7: Analyzing Movie Reviews Sentiment
+    - Chapter 8: Customer Segmentation and Effective Cross Selling
+    - Chapter 9: Analyzing Wine Types and Quality
+    - Chapter 10: Analyzing Music Trends and Recommendations
+    - Chapter 11: Forecasting Stock and Commodity Prices
+    - Chapter 12: Deep Learning for Computer Vision
+
 ## What You'll Learn
 
  - Execute end-to-end machine learning projects and systems
@@ -66,23 +84,5 @@ This book has been specially written for IT professionals, analysts, developers,
 
 ## Acknowledgements
 TBA
-<br> 
- 
-## Contents  
-
- - Part I: Understanding Machine Learning
-    - Chapter 1: Machine Learning Basics
-    - Chapter 2: The Python Machine Learning Ecosystem
- - Part II: The Machine Learning Pipeline
-    - Chapter 3: Processing, Wrangling and Visualizing Data
-    - Chapter 4: Feature Engineering and Selection
-    - Chapter 5: Building, Tuning and Deploying Models
- - Part III: Real-World Case Studies
-    - Chapter 6: Analyzing Bike Sharing Trends
-    - Chapter 7: Analyzing Movie Reviews Sentiment
-    - Chapter 8: Customer Segmentation and Effective Cross Selling
-    - Chapter 9: Analyzing Wine Types and Quality
-    - Chapter 10: Analyzing Music Trends and Recommendations
-    - Chapter 11: Forecasting Stock and Commodity Prices
-    - Chapter 12: Deep Learning for Computer Vision
+<br>
     
