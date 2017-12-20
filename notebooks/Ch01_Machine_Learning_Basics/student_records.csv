@@ -1,0 +1,9 @@
+Name,OverallGrade,Obedient,ResearchScore,ProjectScore,Recommend
+Henry,A,Y,90,85,Yes
+John,C,N,85,51,Yes
+David,F,N,10,17,No
+Holmes,B,Y,75,71,No
+Marvin,E,N,20,30,No
+Simon,A,Y,92,79,Yes
+Robert,B,Y,60,59,No
+Trent,C,Y,75,33,No
