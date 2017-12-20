@@ -1,0 +1,16 @@
+{
+	"outer_col_1":[
+		{
+		 "nested_inner_col_1":"val_1",
+		 "nested_inner_col_2":2
+		},
+		{
+		 "nested_inner_col_1":"val_2",
+		 "nested_inner_col_2":2
+		}
+	],
+	"outer_col_2":{
+		"inner_col_1":3
+	},
+	"outer_col_3":4
+}
