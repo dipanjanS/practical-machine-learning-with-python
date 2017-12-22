@@ -1,2 +1,3 @@
-# Chapter Header Placeholder
-Upcoming book on machine learning. Will be released in Q4, 2017. Watch this space for updates!
+<p align="right"><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python#contents"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch02_The_Python_ML_Ecosystem#chapter-2-the-python-machine-learning-ecosystem"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a></a><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch04_Feature_Engineering_and_Selection"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
+# Chapter 3: Processing, Wrangling and Visualizing Data
