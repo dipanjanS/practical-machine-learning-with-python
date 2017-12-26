@@ -54,14 +54,14 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 
 ## [Contents](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#book-contents)  
 
- - __Part I: Understanding Machine Learning__
+ - [__Part I: Understanding Machine Learning__](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#part-i-understanding-machine-learning)
     - [Chapter 1: Machine Learning Basics](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch01_Machine_Learning_Basics#chapter-1-machine-learning-basics)
     - [Chapter 2: The Python Machine Learning Ecosystem](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch02_The_Python_ML_Ecosystem#chapter-2-the-python-machine-learning-ecosystem)
- - __Part II: The Machine Learning Pipeline__
+ - [__Part II: The Machine Learning Pipeline__](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#part-ii-the-machine-learning-pipeline)
     - [Chapter 3: Processing, Wrangling and Visualizing Data](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch03_Processing_Wrangling_and_Visualizing_Data#chapter-3-processing-wrangling-and-visualizing-data)
     - [Chapter 4: Feature Engineering and Selection](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch04_Feature_Engineering_and_Selection#chapter-4-feature-engineering-and-selection)
     - [Chapter 5: Building, Tuning and Deploying Models](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch05_Building_Tuning_and_Deploying_Models#chapter-5-building-tuning-and-deploying-models)
- - __Part III: Real-World Case Studies__
+ - [__Part III: Real-World Case Studies__](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#part-iii-real-world-case-studies)
     - [Chapter 6: Analyzing Bike Sharing Trends](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch06_Analyzing_Bike_Sharing_Trends#chapter-6-analyzing-bike-sharing-trends)
     - [Chapter 7: Analyzing Movie Reviews Sentiment](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch07_Analyzing_Movie_Reviews_Sentiment#chapter-7-analyzing-movie-reviews-sentiment)
     - [Chapter 8: Customer Segmentation and Effective Cross Selling](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch08_Customer_Segmentation_and_Effective_Cross_Selling#chapter-8-customer-segmentation-and-effective-cross-selling)
