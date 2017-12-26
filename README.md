@@ -52,7 +52,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 [*__Practical Machine Learning with Python__*](https://github.com/dipanjanS/practical-machine-learning-with-python#contents) will empower you to start solving your own problems with machine learning today!
 <br>
 
-## Contents  
+## [Contents](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#book-contents)  
 
  - __Part I: Understanding Machine Learning__
     - [Chapter 1: Machine Learning Basics](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch01_Machine_Learning_Basics#chapter-1-machine-learning-basics)
