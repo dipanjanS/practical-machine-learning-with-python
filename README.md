@@ -87,36 +87,26 @@ TBA
 <br>
 
 ## Powered by the following frameworks
+
 <div>
-<a target="_blank" href="https://anaconda.org/"><img src="./media/banners/anaconda_logo.jpg" alt="anaconda" align="left"/></a>
-<a target="_blank" href="http://jupyter.org/"><img src="./media/banners/jupyter_logo.jpg" alt="jupyter" align="left"/></a>
-<a target="_blank" href="http://www.numpy.org/"><img src="./media/banners/numpy_logo.jpg" alt="numpy" align="left"/></a>
-<a target="_blank" href="https://www.scipy.org/"><img src="./media/banners/scipy_logo.jpg" alt="scipy" align="left"/></a>
-<a target="_blank" href="https://pandas.pydata.org/"><img src="./media/banners/pandas_logo.jpg" alt="pandas" align="left"/></a>
+<a target="_blank" href="https://anaconda.org/"><img src="./media/banners/anaconda_logo.jpg" alt="anaconda" /></a>
+<a target="_blank" href="http://jupyter.org/"><img src="./media/banners/jupyter_logo.jpg" alt="jupyter" /></a>
+<a target="_blank" href="http://www.numpy.org/"><img src="./media/banners/numpy_logo.jpg" alt="numpy" /></a>
+<a target="_blank" href="https://www.scipy.org/"><img src="./media/banners/scipy_logo.jpg" alt="scipy" /></a>
+<a target="_blank" href="https://pandas.pydata.org/"><img src="./media/banners/pandas_logo.jpg" alt="pandas" /></a>
+<a target="_blank" href="http://www.statsmodels.org/stable/index.html"><img src="./media/banners/statsmodels_logo.jpg" alt="statsmodels" /></a>
+<a target="_blank" href="http://docs.python-requests.org/en/master/"><img src="./media/banners/requests_logo.jpg" alt="requests" /></a>
+<a target="_blank" href="http://www.nltk.org/"><img src="./media/banners/nltk_logo.jpg" alt="nltk" /></a>
+<a target="_blank" href="https://radimrehurek.com/gensim/"><img src="./media/banners/gensim_logo.jpg" alt="gensim" /></a>
+<a target="_blank" href="https://spacy.io/"><img src="./media/banners/spacy_logo.jpg" alt="spacy" /></a>
+<a target="_blank" href="http://scikit-learn.org/stable/"><img src="./media/banners/scikit-learn_logo.jpg" alt="scikit-learn" /></a>
+<a target="_blank" href="https://www.datascience.com/resources/tools/skater"><img src="./media/banners/skater_logo.png" alt="skater" /></a>
+<a target="_blank" href="https://facebook.github.io/prophet/"><img src="./media/banners/prophet_logo.jpg" alt="prophet" /></a>
+<a target="_blank" href="https://keras.io/"><img src="./media/banners/keras_logo.jpg" alt="keras" /></a>
+<a target="_blank" href="https://www.tensorflow.org/"><img src="./media/banners/tensorflow_logo.jpg" alt="tensorflow" /></a>
+<a target="_blank" href="https://matplotlib.org/"><img src="./media/banners/matplotlib_logo.jpg" alt="matplotlib" /></a>
+<a target="_blank" href="https://orange.biolab.si/"><img src="./media/banners/orange_logo.jpg" alt="orange" /></a>
+<a target="_blank" href="https://seaborn.pydata.org/"><img src="./media/banners/seaborn_logo.jpg" alt="seaborn" /></a>
+<a target="_blank" href="https://plot.ly/"><img src="./media/banners/plotly_logo.jpg" alt="plotly" /></a>
+<a target="_blank" href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="./media/banners/bs_logo.jpg" alt="beautiful soup" /></a>
 </div>
-<br><br><br>
-<div>
-<a target="_blank" href="http://www.statsmodels.org/stable/index.html"><img src="./media/banners/statsmodels_logo.jpg" alt="statsmodels" align="left"/></a>
-<a target="_blank" href="http://docs.python-requests.org/en/master/"><img src="./media/banners/requests_logo.jpg" alt="requests" align="left"/></a>
-<a target="_blank" href="http://www.nltk.org/"><img src="./media/banners/nltk_logo.jpg" alt="nltk" align="left"/></a>
-<a target="_blank" href="https://radimrehurek.com/gensim/"><img src="./media/banners/gensim_logo.jpg" alt="gensim" align="left"/></a>
-<a target="_blank" href="https://spacy.io/"><img src="./media/banners/spacy_logo.jpg" alt="spacy" align="left"/></a>
-</div>
-<br><br><br>
-<div>
-<a target="_blank" href="http://scikit-learn.org/stable/"><img src="./media/banners/scikit-learn_logo.jpg" alt="scikit-learn" align="left"/></a>
-<a target="_blank" href="https://www.datascience.com/resources/tools/skater"><img src="./media/banners/skater_logo.png" alt="skater" align="left"/></a>
-<a target="_blank" href="https://facebook.github.io/prophet/"><img src="./media/banners/prophet_logo.jpg" alt="prophet" align="left"/></a>
-<a target="_blank" href="https://keras.io/"><img src="./media/banners/keras_logo.jpg" alt="keras" align="left"/></a>
-<a target="_blank" href="https://www.tensorflow.org/"><img src="./media/banners/tensorflow_logo.jpg" alt="tensorflow" align="left"/></a>
-</div>
-<br><br><br>
-<div>
-<a target="_blank" href="https://matplotlib.org/"><img src="./media/banners/matplotlib_logo.jpg" alt="matplotlib" align="left"/></a>
-<a target="_blank" href="https://orange.biolab.si/"><img src="./media/banners/orange_logo.jpg" alt="orange" align="left"/></a>
-<a target="_blank" href="https://seaborn.pydata.org/"><img src="./media/banners/seaborn_logo.jpg" alt="seaborn" align="left"/></a>
-<a target="_blank" href="https://plot.ly/"><img src="./media/banners/plotly_logo.jpg" alt="plotly" align="left"/></a>
-<a target="_blank" href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="./media/banners/bs_logo.jpg" alt="beautiful soup" align="left"/></a>
-</div>
-<br><br><br>
-    
