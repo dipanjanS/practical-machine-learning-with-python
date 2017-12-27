@@ -79,6 +79,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  - Understand and apply the latest models and methodologies from deep learning including CNNs, RNNs, LSTMs and transfer learning.
 
 ## Audience
+
 This book has been specially written for IT professionals, analysts, developers, data scientists, engineers, graduate students and anyone with an interest to analyze and derive insights from data!
 <br>
 
@@ -86,7 +87,7 @@ This book has been specially written for IT professionals, analysts, developers,
 TBA
 <br>
 
-## Powered by the following frameworks
+## Powered by the following Frameworks
 
 <div>
 <a target="_blank" href="https://anaconda.org/"><img src="./media/banners/anaconda_logo.jpg" alt="anaconda" /></a>
@@ -115,5 +116,6 @@ TBA
 <a target="_blank" href="https://seaborn.pydata.org/"><img src="./media/banners/seaborn_logo.jpg" alt="seaborn" /></a>
 <a target="_blank" href="https://plot.ly/"><img src="./media/banners/plotly_logo.jpg" alt="plotly" /></a>
 <a target="_blank" href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="./media/banners/bs_logo.jpg" alt="beautiful soup" /></a>
+
 </div>
 <br>
