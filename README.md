@@ -77,8 +77,15 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
  - Review case studies depicting applications of machine learning and deep learning on diverse domains and industries
  - Apply a wide range of machine learning models including regression, classification, and clustering.
  - Understand and apply the latest models and methodologies from deep learning including CNNs, RNNs, LSTMs and transfer learning.
- 
- 
+
+## Audience
+This book has been specially written for IT professionals, analysts, developers, data scientists, engineers, graduate students and anyone with an interest to analyze and derive insights from data!
+<br>
+
+## Acknowledgements
+TBA
+<br>
+
 ## Powered by the following frameworks
 <div>
 <a target="_blank" href="https://anaconda.org/"><img src="./media/banners/anaconda_logo.jpg" alt="anaconda" align="left"/></a>
@@ -112,12 +119,4 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
 <a target="_blank" href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="./media/banners/bs_logo.jpg" alt="beautiful soup" align="left"/></a>
 </div>
 <br><br><br>
-
-## Audience
-This book has been specially written for IT professionals, analysts, developers, data scientists, engineers, graduate students and anyone with an interest to analyze and derive insights from data!
-<br>
-
-## Acknowledgements
-TBA
-<br>
     
