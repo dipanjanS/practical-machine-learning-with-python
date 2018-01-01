@@ -2,4 +2,4 @@
 
 # Chapter 1: Machine Learning Basics
 
-
+This chapter familiarizes and acquaints readers with the basics of machine learning, industry standard workflows followed for machine learning processes and expands on the different types of machine learning and deep learning algorithms. We also present different applications of machine learning.
