@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<records attr="sample xml records">
+	<record name="rec_1">
+	  <sub_element>
+	    <detail1>Attribute 1</detail1>
+	    <detail2>2</detail2>
+	  </sub_element>
+	  <sub_element_with_attr attr="complex">
+	    Sub_Element_Text
+	  </sub_element_with_attr>
+	  <sub_element_only_attr attr_val="only_attr"/>
+	</record>
+	<record name="rec_2">
+	  <sub_element>
+	    <detail1>Attribute 1</detail1>
+	    <detail2>2</detail2>
+	  </sub_element>
+	  <sub_element_with_attr attr="complex">
+	    Sub_Element_Text
+	  </sub_element_with_attr>
+	  <sub_element_only_attr attr_val="only_attr"/>
+	</record>
+	<record name="rec_3">
+	  <sub_element>
+	    <detail1>Attribute 1</detail1>
+	    <detail2>2</detail2>
+	  </sub_element>
+	  <sub_element_with_attr attr="complex">
+	    Sub_Element_Text
+	  </sub_element_with_attr>
+	  <sub_element_only_attr attr_val="only_attr"/>
+	</record>
+</records>
