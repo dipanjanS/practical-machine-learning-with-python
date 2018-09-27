@@ -116,6 +116,7 @@ def get_seq_train_test(time_series, scaling=True,train_size=0.9):
     scaler = None
     if scaling:
         scaler = MinMaxScaler(feature_range=(0, 1))
+        time_series = np.array(time_series).reshape(-1,1)
         scaled_stock_series = scaler.fit_transform(time_series)
     else:
         scaled_stock_series = time_series
