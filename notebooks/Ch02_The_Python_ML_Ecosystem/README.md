@@ -1,4 +1,14 @@
-<p align="right"><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python#contents"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#chapter-2-the-python-machine-learning-ecosystem"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch01_Machine_Learning_Basics#chapter-1-machine-learning-basics"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a></a><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch03_Processing_Wrangling_and_Visualizing_Data#chapter-3-processing-wrangling-and-visualizing-data"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+<p align="right">
+  <a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python#contents"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" />
+  </a>
+  <a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#chapter-2-the-python-machine-learning-ecosystem"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" />
+  </a>
+  <a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch01_Machine_Learning_Basics#chapter-1-machine-learning-basics">
+    <img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" />
+  </a>
+  <a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch03_Processing_Wrangling_and_Visualizing_Data#chapter-3-processing-wrangling-and-visualizing-data"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" />
+  </a>
+</p>
 
 # Chapter 2: The Python Machine Learning Ecosystem
 
