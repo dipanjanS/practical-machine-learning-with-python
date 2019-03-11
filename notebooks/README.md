@@ -1,4 +1,4 @@
-<p align="right"><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python#contents"><img height="50px" src="https://media.githubusercontent.com/media/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a></p>
+<p align="right"><a target="_blank" href="https://github.com/dipanjanS/practical-machine-learning-with-python#contents"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a></p>
 
 # Book Contents
 <br>
