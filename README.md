@@ -69,7 +69,7 @@ Edition: 1st &emsp; Pages: 532 &emsp; Language: English<br/>
     - [Chapter 10: Analyzing Music Trends and Recommendations](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch10_Analyzing_Music_Trends_and_Recommendations#chapter-10-analyzing-music-trends-and-recommendations)
     - [Chapter 11: Forecasting Stock and Commodity Prices](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch11_Forecasting_Stock_and_Commodity_Prices#chapter-11-forecasting-stock-and-commodity-prices)
     - [Chapter 12: Deep Learning for Computer Vision](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/Ch12_Deep_Learning_for_Computer_Vision#chapter-12-deep-learning-for-computer-vision)
-
+    - [Chapter 13: Medical Insurance Cost Price Prediction Web App using Streamlit](https://github.com/dvamsidhar2002/practical-machine-learning-with-python/tree/master/notebooks/Medical-Insurance-Cost-Predictor-Web-App-with-Streamlit)
 ## What You'll Learn
 
  - Execute end-to-end machine learning projects and systems
