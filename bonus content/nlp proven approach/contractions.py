@@ -24,7 +24,7 @@ CONTRACTION_MAP = {
 "he'd": "he would",
 "he'd've": "he would have",
 "he'll": "he will",
-"he'll've": "he he will have",
+"he'll've": "he will have",
 "he's": "he is",
 "how'd": "how did",
 "how'd'y": "how do you",
