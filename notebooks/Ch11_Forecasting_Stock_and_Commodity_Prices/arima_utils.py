@@ -116,8 +116,8 @@ def arima_gridsearch_cv(series, cv_splits=2,verbose=True,show_plots=True):
         splits.append({'train':train_index,'test':test_index})
         
         # split train and test sets
-        train_series = series.ix[train_index]
-        test_series = series.ix[test_index]
+        train_series = series.iloc[train_index]
+        test_series = series.iloc[test_index]
         
         print("Train shape:{}, Test shape:{}".format(train_series.shape,
               test_series.shape))
@@ -157,10 +157,10 @@ def arima_gridsearch_cv(series, cv_splits=2,verbose=True,show_plots=True):
             plt.show()
 
             # show error plot
-            insample_fit = list(results.predict(train_series.index.min()+1, 
+            insample_fit = list(results.predict(train_series.index.min()+1*train_series.index.freq, 
                                                 train_series.index.max(),
                                                 typ='levels')) 
-            plt.plot((np.exp(train_series.ix[1:].tolist())-\
+            plt.plot((np.exp(train_series.iloc[1:].tolist())-\
                              np.exp(insample_fit)))
             plt.title('Error Plot')
             plt.show()
